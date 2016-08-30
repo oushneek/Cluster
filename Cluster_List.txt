@@ -1,0 +1,1864 @@
+
+	Cluster 1 : 
+4 nbc weather app  dc
+storm team 4 weather app  dc
+nbc4 weather app  dc
+nbc  app
+nbc  weather app
+roadblocks alert
+nbc  first alert weather app
+
+	Cluster 2 : 
+hold em offline
+offline  holdem
+
+	Cluster 3 : 
+a and m bookstore
+fish and game
+game and fish app
+game and fish
+
+	Cluster 4 : 
+classic  trail
+trail classic
+
+	Cluster 5 : 
+trail game original
+original  trail
+trail original
+
+	Cluster 6 : 
+hunting and fishing mobile app
+tides
+fishing and hunting
+fishing tides and weather
+hunting and fishing license
+hunting and fishing
+
+	Cluster 7 : 
+dress up games
+hannah  games
+hannah  dress up games
+dress up hannah  games
+
+	Cluster 8 : 
+joe
+picky joey
+joey  picky
+
+	Cluster 9 : 
+french  lockjaw
+lockjaw french
+
+	Cluster 10 : 
+driving licence practice test
+dmv practice driving test
+driving practice test
+driving test practice
+dds practice test in ga
+garfield diner
+practice driving test
+my bmv driving test practice
+
+	Cluster 11 : 
+georgia line dig your roots
+dig your roots  georgia line
+
+	Cluster 12 : 
+georgia line this is how we roll
+this is how we roll  georgia line
+
+	Cluster 13 : 
+jones games
+lego  jones games
+jones lego games
+lego  jones
+
+	Cluster 14 : 
+restaurant inspections
+restaurant inspection
+
+	Cluster 15 : 
+holdem
+zynga poker –  holdem
+zynga poker –  holdem facebook
+zynga poker –  holdem classic
+zynga  holdem
+holdem poker zynga
+
+	Cluster 16 : 
+driver handbook
+drivers handbook
+driver handbook 2016
+
+	Cluster 17 : 
+lottery app
+lottery vip app
+my  lottery app
+my  lottery
+lottery apps
+
+	Cluster 18 : 
+fishing apps
+fishing guide
+gulf coast fishing
+fishing
+fishing report
+gulf shores
+fishing app
+fishing regulations
+
+	Cluster 19 : 
+weather app
+weather apps
+weather
+10 tv weather app columbus
+weather accuweater com
+z100
+weather apps for
+cbs  weather
+online
+weather radar
+weather online
+
+	Cluster 20 : 
+offline map
+offline maps
+
+	Cluster 21 : 
+department of conservation app
+conservation department
+department of conservation
+department of conservation fishing license
+
+	Cluster 22 : 
+university of  credit union
+university credit union
+university of  federal credit union
+university of  community credit union
+
+	Cluster 23 : 
+smokies visitors guide
+smokies visitors go guide
+
+	Cluster 24 : 
+wallpaper
+a and m wallpaper
+flag wallpaper
+wizards wallpaper
+tar heels wallpaper
+jets
+jets wallpaper
+mets wallpaper
+wallpapers
+six flags
+vikings wallpaper
+rockies wallpaper
+gators
+gators wallpaper
+beach wallpapers
+wildcats wallpaper
+
+	Cluster 25 : 
+lottery scratch off ticket scanner
+lottery scratchers
+lottery scratch ticket scanner
+lottery ticket scanner for scratch offs
+
+	Cluster 26 : 
+southern university
+university of southern
+
+	Cluster 27 : 
+trail maps
+orv trail maps
+trail map
+
+	Cluster 28 : 
+northern university
+university of northern
+northern  water district
+northern
+
+	Cluster 29 : 
+central  university
+university of central
+
+	Cluster 30 : 
+channel 7 news denver
+channel 9 news denver
+
+	Cluster 31 : 
+kfor app for  news
+daily news app
+one news app
+news apps
+news app
+
+	Cluster 32 : 
+own credit union
+s own credit union
+
+	Cluster 33 : 
+blue cross blue shield of
+horizon blue cross blue shield of
+pub blue cross and blue shield of
+blue app
+blue cross blue shield
+anthem blue cross
+my  blue
+blue moon of
+blue cross blue shield of  city
+
+	Cluster 34 : 
+outdoor annual
+outdoors
+outdoor  app
+outdoor
+
+	Cluster 35 : 
+lottery player rewards
+lottery rewards
+lottery my rewards
+
+	Cluster 36 : 
+scratch off ticket scanner
+scratcher scanner
+scratch ticket scanner
+
+	Cluster 37 : 
+channel 7 news  dc
+channel 9 news  dc
+news channel 5 nashville
+channel 13 news memphis
+channel 7 news omaha
+omaha
+channel 5 news
+phoenix  news
+channel 5 news phoenix
+katv channel 7 news little rock
+channel 10 news miami
+channel 6 news orlando
+disney orlando
+channel 5 news atlanta
+channel 7 news boise
+channel 13 news des moines
+channel 9 news  city mo
+
+	Cluster 38 : 
+pub first  bank national association
+first national bank
+first national bank of
+first national bank of eastern
+
+	Cluster 39 : 
+the  credit union
+bay area credit union
+tea
+east  professional credit union
+mid  credit union
+credit union of
+greater  credit union
+lake  credit union
+teachers credit union
+usa credit union
+credit union 1
+coast credit union
+credit union
+schools financial credit union mobile app
+teachers summit
+partner  credit union
+area
+commerce credit union
+united credit union mobile
+east  credit union
+telco credit union
+telco
+members credit union
+
+	Cluster 40 : 
+lottery official app
+the official  lottery app
+state lottery official app
+
+	Cluster 41 : 
+lottery scratch app
+lottery scratch off app
+
+	Cluster 42 : 
+lottery ticket scanner
+state lotto scanner
+state lottery ticket scanner
+lottery instant ticket scanner
+lottery scanner
+lottery ticket scanner app
+check a ticket  lottery
+state lottery scanner
+
+	Cluster 43 : 
+community credit union
+one community credit union
+community federal credit union
+
+	Cluster 44 : 
+first  credit union
+first credit union app
+
+	Cluster 45 : 
+dmv practice test  dc
+dmv cdl practice test
+dmv practice test
+cdl practice test
+dmv practice test  2016
+dmv practice test west
+bmv practice test
+cdl practice test free
+dmv practice test in spanish
+mva test  en español
+mva practice test
+mva
+mva  timed test
+entergy
+
+	Cluster 46 : 
+valley federal credit union
+family fitness
+partners federal credit union
+federal credit union
+local government federal credit union
+schools and government credit union
+usa federal credit union
+federal credit union app
+superior federal credit union
+heritage federal credit union
+state federal credit union app
+family federal credit union
+savings federal credit union
+highlands federal credit union
+
+	Cluster 47 : 
+central credit union
+central credit union app
+central federal credit union
+
+	Cluster 48 : 
+state employees credit union app
+state employees credit union of
+
+	Cluster 49 : 
+mobile justice
+aclu mobile justice
+aclu mobile justice app
+mobile justice app
+
+	Cluster 50 : 
+valley credit union app
+ih  valley credit union
+valley credit union
+
+	Cluster 51 : 
+holdem poker deluxe
+holdem poker deluxe vip
+
+	Cluster 52 : 
+scholarship lottery
+scholarship lottery app
+
+	Cluster 53 : 
+dc radio stations
+union station  dc
+100.3 fm radio station
+radio stations
+columbus  radio stations
+hot 97 radio app
+radio station hot 97
+sports radio app
+
+	Cluster 54 : 
+news 9 weather app
+news 12  weather app
+news now weather app
+
+	Cluster 55 : 
+motorcycle test
+motorcycle dmv test
+dot motorcycle test
+
+	Cluster 56 : 
+city subway nyc mta transit subway train
+subway surfers in
+subway surfers
+subway surfers world tour
+
+	Cluster 57 : 
+first bank of
+first  bank app
+state bank
+first state bank
+first  educators
+first  bank
+safe t net
+sobriety
+terps
+first internet bank of
+
+	Cluster 58 : 
+parks and wildlife app
+parks and wildlife
+islanders app
+fish and wildlife
+
+	Cluster 59 : 
+wic my food finder app
+wic my food finder
+
+	Cluster 60 : 
+cardinals wallpaper
+cardinals live wallpaper
+cardinals football wallpapers
+
+	Cluster 61 : 
+georgia line ringtones free
+georgia line ringtones
+holy  georgia line ringtone
+georgia line take it out on me
+h o l y by  georgia line
+
+	Cluster 62 : 
+driver s manual
+brewers
+dmv drivers manual
+dolls
+breweries
+rouser
+hikes
+
+	Cluster 63 : 
+central  news
+central  news 13
+
+	Cluster 64 : 
+transit authority
+metropolitan area transit authority
+portland  transit max trip planner
+transit app
+bay transit authority
+
+	Cluster 65 : 
+redskins wallpaper
+redskins live wallpaper
+
+	Cluster 66 : 
+education lottery app
+education lottery
+education
+
+	Cluster 67 : 
+one  credit union app
+one  credit union
+
+	Cluster 68 : 
+real estate exam prep
+real estate exam
+real estate exam prep free
+
+	Cluster 69 : 
+crimson tide keyboard
+crimson tide ringtones free
+crimson tide emoji keyboard
+crimson tide keyboard free
+
+	Cluster 70 : 
+dc driving test
+driving permit test
+driving manual
+driving test
+driving license test
+driving test 2016
+driving test app
+driving test study
+dmv driving test
+bmv written test
+bmv driving test
+
+	Cluster 71 : 
+news
+madison  news
+east  news
+dallas  news
+kutv 2 news
+west  news
+news9
+news 12
+local news
+news now
+kitv news
+
+	Cluster 72 : 
+lakes
+la mega 97.9  fm
+furniture mart
+lake martin
+employ  marketplace
+lake
+
+	Cluster 73 : 
+games
+game warden
+game
+gamecock apps
+fashion designer game
+
+	Cluster 74 : 
+rangers baseball app
+rangers
+rangers baseball
+twins baseball app
+dixie youth baseball
+rockies baseball app
+
+	Cluster 75 : 
+state university
+state university orientation
+southeast  state university
+orientation
+state university app
+
+	Cluster 76 : 
+credit union app
+own credit union app
+
+	Cluster 77 : 
+yankees wallpaper
+yankees live wallpaper
+
+	Cluster 78 : 
+lottery mobile
+lottery free mobile app
+lottery mobile app
+
+	Cluster 79 : 
+wolverines wallpaper
+wolverines wallpaper free
+
+	Cluster 80 : 
+sweet home  ringtone
+sweet home  ringtone free
+
+	Cluster 81 : 
+mtv unplugged in
+path train
+train
+rain
+
+	Cluster 82 : 
+fishing license
+fishing license app
+
+	Cluster 83 : 
+giants wallpaper
+giants live wallpaper
+
+	Cluster 84 : 
+power and light app
+power and light
+city power and light
+
+	Cluster 85 : 
+west  credit union
+southwest  credit union
+
+	Cluster 86 : 
+secretary of state
+secretary of state  app
+
+	Cluster 87 : 
+police scanner
+county police scanner
+portland  police scanner
+police scanner for
+cleveland  police scanner
+columbus  police scanner
+akron  police scanner
+toledo  police scanner
+local police scanner
+tucson  police scanner
+fresno  police scanner
+springs police scanner
+free  police scanner
+des moines  police scanner
+police scanner polis
+
+	Cluster 88 : 
+pinnacle bank
+dells app
+bank of  dells
+dells fun card
+bank of  app
+bank
+valuebank
+commonwealth bank
+1st security bank of
+ymca of greater  city
+regional  bank
+united  bank
+signature bank of
+bank of  business
+united swift deposit
+bank of  emoji
+independent bank
+bank app
+bank of  city
+
+	Cluster 89 : 
+motor speedway app
+motor speedway
+international speedway
+
+	Cluster 90 : 
+ducks wallpaper
+ducks live wallpaper
+knicks live wallpaper
+live wallpapers
+
+	Cluster 91 : 
+child support app 2016
+child support app
+child support modification app
+
+	Cluster 92 : 
+dc metro app
+dc metro bus app
+big bus  dc
+dc metro
+dc metro map
+official  dc metro app
+map of  dc
+metro
+rangers official app
+metro bus schedule app
+
+	Cluster 93 : 
+university of  football
+university of  knoxville
+university of  app
+university of  seattle
+university in st louis
+western  university
+university of
+be a duck university of
+brewfest
+my eastern
+swimming holes
+pacific university
+christian university
+university of  reno
+university of  lincoln
+university of  omaha
+university of  duluth
+university of  bus
+eastern  university
+university of  ringtones
+university of  wildcats
+tech university
+gangster
+university of  boulder
+mesa university
+atlantic university
+university of west
+university of  at urbana champaign
+university
+
+	Cluster 94 : 
+fox 5 weather app  dc
+fox 13 weather app
+fox 12  weather app
+fox 12
+nights success in the city
+fox 4 weather app  city
+
+	Cluster 95 : 
+fox 8 news cleveland
+cleveland  news
+
+	Cluster 96 : 
+state lottery
+state lottery app
+pub  state lottery
+
+	Cluster 97 : 
+rocky top  ringtone
+of 300 ringtones
+yea  ringtone
+yea
+five o
+five o ringtone
+five o free ringtone
+5 o ringtones
+jeep dodge
+voters
+
+	Cluster 98 : 
+pigeon forge  coupons
+popeyes  chicken
+fried chicken app
+fried chicken
+fried chicken united states
+fried chicken coupons
+
+	Cluster 99 : 
+bourbon trail app
+bourbon trail
+
+	Cluster 100 : 
+national bank of  app
+national bank of
+
+	Cluster 101 : 
+whur 96.3 fm  dc
+whur 96.3 fm
+x96.3 fm
+
+	Cluster 102 : 
+bank and trust
+trust bank
+trail american settler
+west  bank and trust
+american savings bank
+first mid  bank and trust
+trust and savings bank
+
+	Cluster 103 : 
+public radio app
+public broadcasting
+public library
+public radio
+republic
+public television
+
+	Cluster 104 : 
+drivers test
+drivers ed
+drivers guide
+drivers training app
+drivers book
+edd
+dot drivers test
+
+	Cluster 105 : 
+unemployment app
+unemployment
+
+	Cluster 106 : 
+federal bank app
+federal bank
+federal card power
+
+	Cluster 107 : 
+map
+maps
+weedmaps
+
+	Cluster 108 : 
+medicaid app
+veterans app
+capitals app
+apps
+cop app
+parcel app
+brands app
+branson  apps
+app
+diamondbacks app
+earthquake app
+keys app
+pacers app
+
+	Cluster 109 : 
+traffic cameras
+traffic cameras live
+
+	Cluster 110 : 
+permit test
+dmv permit test 2016
+driver permit test
+dmv permit test
+mvd
+mvd permit test
+
+	Cluster 111 : 
+reno
+ameren
+ren
+ren fest
+discount  car rental
+apartment for rent
+
+	Cluster 112 : 
+conservation app
+conservation
+
+	Cluster 113 : 
+smith
+kfsm channel 5 news app fort smith
+channel 5 news fort smith
+
+	Cluster 114 : 
+vols wallpaper free
+vols football wallpaper
+football wallpapers free
+razorbacks wallpaper free
+bulldogs wallpaper
+bulldogs football wallpapers free
+bulldogs wallpapers free
+
+	Cluster 115 : 
+penal code 2016
+police codes
+state police
+state police app
+
+	Cluster 116 : 
+employees credit union
+employees federal credit union
+
+	Cluster 117 : 
+university of  university college
+university of  at lafayette
+university of  basketball apps
+university bloomington
+wesleyan university
+
+	Cluster 118 : 
+fishing maps
+fishing lake maps
+
+	Cluster 119 : 
+farm bureau app
+farm bureau
+farm bureau insurance
+
+	Cluster 120 : 
+state parks app
+state parks
+state parks mobile app
+state dot app
+adot
+
+	Cluster 121 : 
+mls real estate
+real estate
+realty
+
+	Cluster 122 : 
+eppicard mobile app
+dps mobile app
+airlines mobile app
+airlines inflight gogo
+airlines credit card
+airlines entertainment
+eppicard
+asb  mobile
+asb
+asb  mobile app
+
+	Cluster 123 : 
+live app
+park casino
+live casino app
+live casino
+grand racing and casino app
+
+	Cluster 124 : 
+city royals app
+city royals
+city royals wallpaper
+
+	Cluster 125 : 
+crimson tide wallpapers
+crimson tide live wallpapers free
+
+	Cluster 126 : 
+benefit app
+benefit
+your  benefits app
+your  benefits app for android
+your  benefit
+your  benefits food stamps app
+episode choose your story
+
+	Cluster 127 : 
+driver license practice test
+driver license test
+driver license study guide
+drivers license
+
+	Cluster 128 : 
+jones theme ringtone
+jones ringtone
+
+	Cluster 129 : 
+star quilt tutorials
+star quilt company tutorials
+star quilt company
+
+	Cluster 130 : 
+drivers ed practice test
+drivers permit practice test
+drivers permit test
+learners permit practice test
+permit practice test
+
+	Cluster 131 : 
+health benefits
+your  health benefits
+amerihealth
+
+	Cluster 132 : 
+dating apps in
+dating app
+camping
+upper peninsula
+
+	Cluster 133 : 
+basketball app
+basketball
+knicks basketball
+hoosiers basketball
+
+	Cluster 134 : 
+vdot 511  traffic
+511  traffic
+dot 511
+
+	Cluster 135 : 
+dmv handbook
+cdl handbook
+dmv handbook 2016
+driving handbook
+
+	Cluster 136 : 
+lottery
+lottery results
+lottery 3d
+lottery bingo
+daily lottery
+hoosier lottery
+
+	Cluster 137 : 
+dc subway map
+dc subway
+subway
+
+	Cluster 138 : 
+standards
+common core standards
+standards app
+
+	Cluster 139 : 
+holdem poker free game
+poker king  holdem
+poker king  holdem offline
+no limit  holdem poker
+ultimate  holdem casino game
+holdem video poker
+
+	Cluster 140 : 
+bus simulator
+simulator
+crime simulator
+plane simulator
+
+	Cluster 141 : 
+dakota utilities
+gas utilities
+springs utilities
+utilities app
+utilities
+
+	Cluster 142 : 
+traffic
+traffic app
+traffic app las vegas
+mdot traffic app
+
+	Cluster 143 : 
+state hiking trails
+hiking trails
+
+	Cluster 144 : 
+public service company of
+public service of
+
+	Cluster 145 : 
+universal studios hollywood  wait times
+universal studios
+universal studios orlando
+
+	Cluster 146 : 
+state fair
+state fair 2016
+state fair of west
+state fair food finder
+
+	Cluster 147 : 
+aquarium app
+aquarium
+
+	Cluster 148 : 
+badgers football
+football
+titans football app
+utes football
+tech football
+huskies
+huskies football
+ducks football
+sooners football
+state football
+football app
+wolverines football
+in pictutes
+surviving
+razorbacks football
+blink 182
+bulldogs football app
+
+	Cluster 149 : 
+a and m football
+essential knowledge and skills
+music
+saints
+ezpass
+madsen
+kamasi
+vancouver
+garden
+jamboree
+rocks minerals
+aep
+hubbard
+charlotte
+waterway
+mass choir
+cans
+mavericks
+campgrounds
+football game
+gadsden
+shake
+maggie rogers
+matters
+jack and jack
+boat ramps
+imagine you and me by  mendoza
+
+	Cluster 150 : 
+redskins app
+redskins
+redskins mobile app
+
+	Cluster 151 : 
+community bank joseph
+community banks of  app
+community bank
+community church
+
+	Cluster 152 : 
+nbc 4 news in columbus
+columbus  news
+nbc4i columbus
+
+	Cluster 153 : 
+craigslist portland
+las vegas
+craigslist las vegas
+craigslist
+craigslist phoenix
+oahu
+craigslist oahu
+boise
+craigslist boise
+craigslist  app
+wcsh 6 portland  news
+
+	Cluster 154 : 
+educational credit union
+south  educational federal credit union
+
+	Cluster 155 : 
+fox 4 news  city missouri
+city missouri
+sun sentinel newspaper
+fox 4 news  city
+city star newspaper
+
+	Cluster 156 : 
+fox 13 news
+fox6 news birmingham
+fox10 news mobile
+fox news 10
+fox 21 news  springs
+lazer 103.3
+fox 59 news polis
+
+	Cluster 157 : 
+post
+post app
+the  post free
+post free app
+
+	Cluster 158 : 
+wizards
+wizards app
+
+	Cluster 159 : 
+hunting
+hunting games
+dnr hunting
+
+	Cluster 160 : 
+state buckeyes wallpaper
+state wallpaper
+state seminoles wallpaper free
+
+	Cluster 161 : 
+def jam fight for
+def jam vendetta fight for
+fighting illini
+
+	Cluster 162 : 
+vikings app
+vikings mobile
+vikings theme
+vikings
+the last frontier
+the joy fm
+theme
+
+	Cluster 163 : 
+highway patrol
+highway patrol traffic
+
+	Cluster 164 : 
+state bank of southern
+ymca of northwest
+college of southern
+ymca of south
+grab the auto
+southern  edison
+automobile club of southern
+southern
+southern  bank
+
+	Cluster 165 : 
+dc app
+dc zoo app
+ebt balance app
+consumers energy app
+when  smiled app
+my  app
+battleship  app
+uss  app
+
+	Cluster 166 : 
+dc parking app
+city parking app
+
+	Cluster 167 : 
+radio
+el zol 107.9 fm radio
+fm radio
+squirrel revival
+brazil radio
+
+	Cluster 168 : 
+tea slot machine
+tea slot game free
+trail games free
+trail game
+
+	Cluster 169 : 
+trail 2
+rail runner
+bbq trail
+railroad
+by trail
+
+	Cluster 170 : 
+times app
+times
+times cooking app
+times vr
+
+	Cluster 171 : 
+coach lines
+power shorelines
+shorelines
+
+	Cluster 172 : 
+tide charts free
+tide and moon chart
+prueba de practica de conducir en
+tide chart
+
+	Cluster 173 : 
+department of game and inland fisheries
+department of transportation
+department of taxation
+pub  department of livestock
+department of fish and game
+employment development department
+department of natural resources
+department of wildlife and fisheries
+department of wildlife and parks
+
+	Cluster 174 : 
+chainsaw massacre games
+chainsaw
+chainsaw games
+
+	Cluster 175 : 
+state buckeyes free ringtones
+state buckeyes emojis
+state buckeyes keyboard
+state keyboard
+
+	Cluster 176 : 
+firdt  bank account
+tollway ipass account
+tollway ipass
+tollway app
+
+	Cluster 177 : 
+vols keyboard
+vols
+keyboard
+redskins keyboard
+tar heels keyboard
+giants app
+giants keyboard
+knicks keyboard
+yankees app
+yankees keyboard
+vikings keyboard
+bulldogs keyboard
+
+	Cluster 178 : 
+go wild
+wildlife resources agency
+division of wildlife
+wildlife  gov
+wildlife
+wildflowers
+life
+gophers
+wild hockey
+gold rush
+avalanche hockey app
+bangor
+
+	Cluster 179 : 
+lake maps
+lake depth maps
+
+	Cluster 180 : 
+dc news
+nbc4 news  dc
+abc 7 news  dc
+13 abc news toledo
+abc15
+nbc  news
+baton rouge  news
+
+	Cluster 181 : 
+dc bike share
+atv trails
+trails
+wine trails
+bike trails
+
+	Cluster 182 : 
+titans
+titans app
+
+	Cluster 183 : 
+edison app
+edison
+this is
+iso
+quick cuisine
+
+	Cluster 184 : 
+knicks app
+knicks
+
+	Cluster 185 : 
+devils app
+devils
+
+	Cluster 186 : 
+subway simulator 3  edition
+subway simulator
+
+	Cluster 187 : 
+northern  community college
+northwest  community college
+county community college
+delta community college
+
+	Cluster 188 : 
+lottery second chance
+lottery 2nd chance
+
+	Cluster 189 : 
+department of human services
+department of workforce services
+department of job and family services
+humane society
+
+	Cluster 190 : 
+ymca of central
+central  emc
+central
+
+	Cluster 191 : 
+post crossword
+times crossword
+times crossword puzzle app
+lottery crossword
+
+	Cluster 192 : 
+dominion power
+power app
+powerball
+power
+power outage
+power mobile app
+
+	Cluster 193 : 
+jones whip sound app free
+jones whip app
+
+	Cluster 194 : 
+river map
+river levels
+river
+navigation map  river
+veyo  driver
+
+	Cluster 195 : 
+instrument calculator ti 84 plus
+instrument graphing calculator
+tigers
+
+	Cluster 196 : 
+lotto app
+lotto
+
+	Cluster 197 : 
+state
+state insider
+our state
+state athletics
+hail state  state bulldogs
+state spartans
+state sun devils
+state jobs
+state tax refund
+state fcu
+statesman newspaper
+statesman
+state alumni
+state cyclones
+mystate  state
+
+	Cluster 198 : 
+dc guide
+beach app
+beach visitors guide
+beach guide
+
+	Cluster 199 : 
+hannah  episodes
+hannah  forever
+hannah  free
+hannah  songs
+hannah  the movie free
+of 300 free songs
+
+	Cluster 200 : 
+jay z
+zervas
+pizza
+pizza hut
+lizard
+
+	Cluster 201 : 
+straight 2 compton
+straight 2
+
+	Cluster 202 : 
+city chiefs
+city chiefs wallpaper
+city chiefs keyboard
+
+	Cluster 203 : 
+county sheriff s office
+county
+county fair
+
+	Cluster 204 : 
+eugene
+taxi eugene
+
+	Cluster 205 : 
+dmv mobile
+mls
+mls mobile
+cu  mobile
+
+	Cluster 206 : 
+federal mobile banking
+central mobile banking
+bank  mobile banking
+
+	Cluster 207 : 
+bible college
+college
+west  technical college
+
+	Cluster 208 : 
+national mall  dc
+army national guard
+nationals
+national fair
+
+	Cluster 209 : 
+east  kitchen app
+pizza kitchen app
+
+	Cluster 210 : 
+fight song ringtone
+fight song
+
+	Cluster 211 : 
+classifieds
+sportsman classifieds
+
+	Cluster 212 : 
+visit  dc
+visit gatlinburg
+visit  app
+visitor info
+
+	Cluster 213 : 
+on
+longhorns
+monthly magazine
+hometown values
+history
+george  mount vernon
+to
+mesonet
+morning journal lisbon
+photo frames
+univision 41
+housewives of  season 7
+vicetone
+tony  scarface
+tony
+monsters
+toursaver
+tortilla
+gregory alan isakov with the  symphony
+recreational dispensary
+symphony
+supercon
+today
+on my mind
+locations
+coon
+monroe
+
+	Cluster 214 : 
+emojis for android
+post for android
+
+	Cluster 215 : 
+emoji
+tech emoji
+
+	Cluster 216 : 
+ymca app
+ymca
+
+	Cluster 217 : 
+tech tree identification
+tech tree id
+rides
+tech guidebook
+
+	Cluster 218 : 
+beer app
+beer
+drink  beer
+
+	Cluster 219 : 
+oil slot
+railway express
+scientific grill right
+il
+jailbirds
+hilliard
+huntsville
+daz dillinger in
+tile
+danville
+
+	Cluster 220 : 
+zombie  trail
+zombies
+
+	Cluster 221 : 
+city thunder keyboard
+city thunder wallpapers
+city thunder app
+
+	Cluster 222 : 
+bmv
+my bmv
+
+	Cluster 223 : 
+crossing outlets
+crossing
+
+	Cluster 224 : 
+nbc  stormtracker
+nbc
+nbc 30
+
+	Cluster 225 : 
+club
+club app
+
+	Cluster 226 : 
+fire
+fires in
+terrapins
+winners chapel
+
+	Cluster 227 : 
+gov
+gov peak
+peak
+
+	Cluster 228 : 
+waterfalls
+discover  waterfalls
+falls
+post register  falls
+4th of july in  falls
+
+	Cluster 229 : 
+airplane fly
+airplane games
+
+	Cluster 230 : 
+dnr pocket ranger
+state parks pocket ranger
+
+	Cluster 231 : 
+travel
+official  travel guide
+nyc travel guide and maps for tourists
+pass travel guide
+
+	Cluster 232 : 
+health plan of
+my health connection university of
+peak health
+health care
+kidcare
+plants
+healthcare connections
+
+	Cluster 233 : 
+roadhouse app
+roadhouse houston
+
+	Cluster 234 : 
+workforce solutions
+workforce commission
+workforce
+game commission
+
+	Cluster 235 : 
+ebt card
+quest card
+slingo quest
+purchase ebt card
+
+	Cluster 236 : 
+building games
+building code
+
+	Cluster 237 : 
+electric and gas
+electric cooperative
+west  electric
+north  electric
+
+	Cluster 238 : 
+water service
+gas service
+
+	Cluster 239 : 
+fox sports
+sports 98.7
+hawkeye sports
+610 sports  city
+
+	Cluster 240 : 
+mutual
+medical mutual of
+med mutual of
+medi cal
+
+	Cluster 241 : 
+state trooper games free
+state troop
+
+	Cluster 242 : 
+instruments calculator
+instrument
+
+	Cluster 243 : 
+cardinals app
+cardinals keyboard
+
+	Cluster 244 : 
+tech
+tech apps
+institute of technology
+
+	Cluster 245 : 
+job center of
+jobs
+jobs apps
+works jobs
+
+	Cluster 246 : 
+wine pass
+grover  jr winelight
+docket records  pa
+freedom pass
+peach pass
+ipass
+
+	Cluster 247 : 
+sanibel island
+the big island revealed
+big island
+
+	Cluster 248 : 
+yankees louder rewards
+louder rewards  city royals
+
+	Cluster 249 : 
+dmv
+dmv now
+dmv app
+
+	Cluster 250 : 
+circuit court access
+dnr app
+dnr
+court calendar
+access dnr
+
+	Cluster 251 : 
+direct auto
+direction card
+directorio
+
+	Cluster 252 : 
+wic
+ebt
+wic shopper
+wic app
+wic ebt
+wic program
+
+	Cluster 253 : 
+daily herald newspaper
+newspapers
+
+	Cluster 254 : 
+gas pay my bill
+gas app
+gas
+natural gas
+
+	Cluster 255 : 
+cherriots bus salem
+bus
+bush people
+bustang
+ghostbusters
+
+	Cluster 256 : 
+usa fcu
+ultrabranch  usa
+fcu
+
+	Cluster 257 : 
+adventure wait times
+adventure app
+legoland  wait times
+
+	Cluster 258 : 
+jon pardi  sunrise
+sun
+sunpass
+
+	Cluster 259 : 
+association of realtors
+trails association
+realtors
+island trail association
+municipal association
+
+	Cluster 260 : 
+vacation guide
+vacation rentals
+destin  vacation
+vacation countdown
+
+	Cluster 261 : 
+dutch
+learn  dutch
+
+	Cluster 262 : 
+gas company
+theatre company
+
+	Cluster 263 : 
+democrat gazette
+hot springs
+gazette  springs
+
+	Cluster 264 : 
+espn 700
+espn 980
+
+	Cluster 265 : 
+cashword by  lottery
+cashword app
+
+	Cluster 266 : 
+stud poker
+stud
+student affairs
+
+	Cluster 267 : 
+rummy
+my
+
+	Cluster 268 : 
+science museum of
+academy of sciences
+okeefe museum
+maritime academy
+
+	Cluster 269 : 
+air
+air show
+solitaire
+
+	Cluster 270 : 
+law
+law help
+
+	Cluster 271 : 
+cdl
+cdl exam
+
+	Cluster 272 : 
+childrens hospital
+hospital ecare
+
+	Cluster 273 : 
+we are
+vehicle connect
+career connect
+
+	Cluster 274 : 
+french  ft drake
+french  ft kodak black
+craft
+
+	Cluster 275 : 
+volunteers gameday
+gameday live
+
+	Cluster 276 : 
+homes
+parade of homes
+
+	Cluster 277 : 
+koco 5  city
+city criminal case 3d
+crime city
+city press citizen
+mix 93.3  city
+city zoo
+
+	Cluster 278 : 
+fast toll
+rules of the road
+toll road
+
+	Cluster 279 : 
+plant identifier app
+saltwater fish identifier
+
+	Cluster 280 : 
+mta
+hurricane tracker
+mta  bus tracker
+
+	Cluster 281 : 
+pure
+pure rock 108
+
+	Cluster 282 : 
+fire in the church  of 300
+lutheran church  synod
+
+	Cluster 283 : 
+roller coaster
+roll
+
+	Cluster 284 : 
+gps
+golf course gps
+golf
+
+	Cluster 285 : 
+ems
+ems protocols
+
+	Cluster 286 : 
+school for the deaf
+virtual school app
+
+	Cluster 287 : 
+santa fe
+fever
+
+	Cluster 288 : 
+id weeds
+idrive
+id maker
+rapids
